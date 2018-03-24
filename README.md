@@ -1,3 +1,3 @@
 # JD
 
-This respository contains things in JD.
+This respository contains file needed for 15688 tutorial.
